@@ -1,0 +1,3 @@
+[submodule "themes/EZLippi.github.io"]
+	path = themes/EZLippi.github.io
+	url = https://github.com/EZLippi/EZLippi.github.io.git
